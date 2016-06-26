@@ -1,7 +1,6 @@
 package com.belatrix.project1;
 
-import java.awt.List;
-import java.util.ArrayList;
+
 import java.util.Scanner;
 
 public class MyApp {
